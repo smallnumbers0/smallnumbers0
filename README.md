@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacky</h1>
-<h3 align="center">A passionate Software Engineer specializing in Web App Programming. Currently a second-year college student.</h3>
+<h3 align="center">A passionate Software Engineer interested in Web App Programming. Currently a second-year college student.</h3>
 
 - 🔭 I’m currently working on [The Running Project](https://smallnumbers0.github.io/runningproject/)
 
