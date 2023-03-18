@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notmessydev&label=Profile%20views&color=0e75b6&style=flat" alt="notmessydev" /> </p>
 
-- 🔭 I’m currently working on **Pokemon API Project**
+<!-- - 🔭 I’m currently working on **Pokemon API Project** -->
 
 - 👯 I’m looking to collaborate on **Webdev Projects**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jchoi1459@gmail.com**
 
-- ⚡ Fun fact **I train for and run long distance road races!**
+- ⚡ Fun fact **I train for and run long distance road races!** [https://runningproject.netlify.app/](https://runningproject.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
