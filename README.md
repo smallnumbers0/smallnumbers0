@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jackychoi.netlify.app/](https://jackychoi.netlify.app/)
 
-- 📝 My Running Journey [tbp)
+- 📝 My Running Journey [tba)
 
 
 <h3 align="left">Languages and Tools:</h3>
