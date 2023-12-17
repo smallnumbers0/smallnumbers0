@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying for a Master's in Computer Science.<br>I am learning to make websites and games.<br>I am also trying to qualify for the olympic trials in the marathon!
+I'm currently studying for a Master's in Computer Science.<br>I am learning to make websites and games.<br>I am also an occasional runner.
 
 
 # 💻 Tech Stack:
